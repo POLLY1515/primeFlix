@@ -1,12 +1,12 @@
-
+import RoutesApp from './RoutesApp';
 
 function App() {
-
-  return (
-    <>
-      <h1>ola</h1>
-    </>
-  )
+return(
+  <>
+  <RoutesApp/>
+  
+  </>
+)
 }
 
 export default App
